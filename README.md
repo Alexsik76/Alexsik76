@@ -2,7 +2,6 @@
 
 **Python Developer (Full-stack)** — backend on FastAPI and Django,
 web clients on Vue 3, and embedded projects on Raspberry Pi and ESP32.
-Open to work.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
